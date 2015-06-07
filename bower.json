@@ -1,0 +1,28 @@
+{
+  "name": "fileBrowserApp",
+  "version": "0.0.1",
+  "homepage": "https://github.com/tapiwam/fileBrowserApp",
+  "authors": [
+    "Tapiwa M <tapiwa.maruni@gmail.com>"
+  ],
+  "description": "File Browser application",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "angular": "~1.4.0",
+    "angular-route": "~1.4.0",
+    "bootstrap": "~3.3.4",
+    "jstree-directive": "~0.1.5"
+  }
+}
